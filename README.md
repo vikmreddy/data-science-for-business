@@ -1,2 +1,2 @@
 # marketing-analytics
-Data Science pipeline for e-commerce Conversions vs. Browsing
+Data Science pipeline for E-commerce Conversions
